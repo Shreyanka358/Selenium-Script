@@ -1,2 +1,2 @@
 # Selenium-Script
-WebDriver =new ChromeDriver();
+WebDriver driver =new ChromeDriver();
